@@ -4,7 +4,6 @@
 
 ## About Me
 
-[This Website]
 I built this website to serve as a simple website that I can post content about me and refer people to looking to learn more.
 
 ## Getting Started
