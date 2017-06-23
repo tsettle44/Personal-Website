@@ -165,10 +165,13 @@ hr.small {
 
 .services {
     padding: 50px 0;
+    background-color: #40ad73;
+    color: whitesmoke;
 }
 
 .service-item {
     margin-bottom: 30px;
+    color: whitesmoke;
 }
 
 /* Callout */
