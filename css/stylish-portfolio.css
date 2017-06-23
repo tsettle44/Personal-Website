@@ -9,6 +9,12 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
