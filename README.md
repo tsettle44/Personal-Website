@@ -1,4 +1,4 @@
-# [Tom Settle]() - [Personal Website]()
+# [Tom Settle](https://tsettle44.github.io/) - [Personal Website](https://tsettle44.github.io/)
 
 [Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
