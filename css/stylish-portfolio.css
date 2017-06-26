@@ -247,10 +247,22 @@ hr.small {
     pointer-events: none;
 }
 
+/* Form */
+
+.form {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.pad {
+    margin: 10px;
+}
+
+
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 #to-top {
